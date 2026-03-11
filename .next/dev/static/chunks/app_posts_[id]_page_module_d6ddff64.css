@@ -1,0 +1,29 @@
+/* [project]/app/posts/[id]/page.module.css [app-client] (css) */
+.page-module__Cq3A9G__container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.page-module__Cq3A9G__id {
+  color: #aaa;
+  margin-bottom: 8px;
+  font-size: .85rem;
+}
+
+.page-module__Cq3A9G__title {
+  color: #1a1a1a;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.page-module__Cq3A9G__body {
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+/*# sourceMappingURL=app_posts_%5Bid%5D_page_module_d6ddff64.css.map*/

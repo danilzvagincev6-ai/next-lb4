@@ -1,0 +1,57 @@
+/* [project]/app/layout.module.css [app-client] (css) */
+.layout-module__CUj6aG__header {
+  z-index: 100;
+  background-color: #fff;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 0 20px;
+  position: sticky;
+  top: 0;
+}
+
+.layout-module__CUj6aG__headerInner {
+  justify-content: space-between;
+  align-items: center;
+  max-width: 900px;
+  height: 60px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.layout-module__CUj6aG__logo {
+  color: #1a1a1a;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.layout-module__CUj6aG__nav {
+  gap: 24px;
+  display: flex;
+}
+
+.layout-module__CUj6aG__navLink {
+  color: #555;
+  font-size: .95rem;
+  transition: color .2s;
+}
+
+.layout-module__CUj6aG__navLink:hover {
+  color: #1a1a1a;
+}
+
+.layout-module__CUj6aG__main {
+  max-width: 900px;
+  min-height: calc(100vh - 120px);
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.layout-module__CUj6aG__footer {
+  text-align: center;
+  color: #aaa;
+  background-color: #fff;
+  border-top: 1px solid #e0e0e0;
+  padding: 20px;
+  font-size: .85rem;
+}
+
+/*# sourceMappingURL=app_layout_module_css_bad6b30c._.single.css.map*/
